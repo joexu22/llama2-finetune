@@ -1,6 +1,6 @@
 # llama2-finetune
 ![LLAMA-FIT CO.](assets/llama_in_suit.webp)
-LLAMA-FIT CO.™ - Your llama will like the way it Looks
+LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 ## Cracking the LLaMa2 Interview: A Weekend Guide to Impressing AI Startups
 

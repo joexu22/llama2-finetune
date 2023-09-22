@@ -6,9 +6,11 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 ## Introduction
 
-  - street cred maxxing
+- **bullets to be turned to memo later**
 
-  - impress employers/vc/peoples/ai
+- street cred maxxing
+
+- impress employers/vc/peoples/ai
 
 - benchmark llama2 fine-tune against base model
   - split training set against validation set (90/10?)
@@ -48,12 +50,12 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 TODO
 - Watch Yannic Kilcher's stuff on LLaMA2
 
-## Design Experiment/Hack Minimum Viable Product/Engineer Draft
+## Design Experiment/Hack Minimum Viable Product/Engineered Draft
 
 ### Dataset Creation
 
 [Kaggle](https://www.kaggle.com/datasets/sandy1811/data-science-interview-questions)
-  - kaggle always have some interesting datasets
+  - kaggle always have some interesting datasets (interview quetions related)
 
 ### Implementation
 
@@ -77,6 +79,7 @@ coding is hard...
 ### Serious frfr
 
 **Discuss with Sean b4 Implementation**
+![Engineering Meme](assets/SwingEngineering.webp)
 
 ### Benchmarks
 

@@ -1,4 +1,4 @@
-run = "cowsay README.md"
+run = "cowsay click here README.md"
 
 [nix]
 channel = "stable-22_11"

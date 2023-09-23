@@ -46,9 +46,10 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
   - insight...
     - [AlpacaFarm](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html)
     - is this useful?
-
-TODO
-- Watch Yannic Kilcher's stuff on LLaMA2
+- [Yannic Kilcher segment](https://www.youtube.com/watch?v=xs-0cp1hSnY&ab_channel=YannicKilcher)
+  - [Original LLaMA](https://www.youtube.com/watch?v=E5OnoYF2oAk&ab_channel=YannicKilcher)
+  - LLaMA-Accessory (potential fine-tune tool)
+    - together.ai, openchat, lmsys.org (leverages llama)
 
 ## Design Experiment/Hack Minimum Viable Product/Engineered Draft
 

@@ -79,9 +79,6 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 [Ray Finetune](https://github.com/ray-project/ray/blob/master/doc/source/templates/04_finetuning_llms_with_deepspeed/run_llama_ft.sh)
   - they have code here
 
-[Lambda Labs Finetune](https://lambdalabs.com/blog/fine-tuning-metas-llama-2-on-lambda-gpu-cloud)
-  - they have code here
-
 ### Benchmarks
 
 [LlamaIndex Semantic Similarity Evaluator](https://gpt-index.readthedocs.io/en/latest/examples/evaluation/semantic_similarity_eval.html)

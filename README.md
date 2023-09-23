@@ -62,7 +62,14 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 **Discuss B4 Implementation**
 ![Engineering Meme](assets/SwingEngineering.webp)
 
-#### For Real
+
+#### Data Processing
+
+  - code in data_processing folder right now
+  - create .env with OPENAI_API_KEY=...
+  - looking to upload this dataset into huggingface
+
+#### Fine-Tune Framework for Pipeline
 
 [Promising FineTune Framework](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
 

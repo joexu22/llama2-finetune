@@ -85,10 +85,12 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 ### Benchmarks
 
 [LlamaIndex Semantic Similarity Evaluator](https://gpt-index.readthedocs.io/en/latest/examples/evaluation/semantic_similarity_eval.html)
-  - uh thanks...
+  - compare text
+  - basis for more rigorous benchmarking
+    - eval-2-base_llama vs eval-2-llama_finetune
 
 [MMLU (Massive Multitask Language Understanding)](https://paperswithcode.com/dataset/mmlu)
-  - this is probably the benchmark I should riff on
+  - left as an excersize to better understand benchmarking
 
 ## Initial Proposal
 
@@ -101,14 +103,17 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 ## Code
 
-Find at 
-
+### Replit (Solely used as MarkDown Renderer, lolz)
 https://replit.com/@joexu22/llama2-finetune
 
+### Github (Acutal Codebase - I hear it's on chain)
 https://github.com/joexu22/llama2-finetune
 
-collab notebook?
+### Executable Code in Notebook that runs on Collab
+Collab Notesbooks in Repo
 
-Deploy_to_Lambda?
+### Lambda Labs
+need to figure out how they do deploys
 
-Deploy_to_HuggingFace?
+### Hugging Face
+https://huggingface.co/UrbanJoe

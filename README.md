@@ -73,11 +73,12 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 [Promising FineTune Framework](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
 
-  - this looks like an out of the box solution
-  - cons is that it uses some sharded model of llama 7b, i believe for performance reasons
+  - this looks like an out of the box solution - one click colab solution
+  - cons is that it uses some strange sharded model of llama 7b
+##### Fine-tune Code
 
-[Ray Finetune](https://github.com/ray-project/ray/blob/master/doc/source/templates/04_finetuning_llms_with_deepspeed/run_llama_ft.sh)
-  - they have code here
+  - [Ray Finetune](https://github.com/ray-project/ray/blob/master/doc/source/templates/04_finetuning_llms_with_deepspeed/run_llama_ft.sh)
+  - [Lambda Labs Finetune](https://lambdalabs.com/blog/fine-tuning-metas-llama-2-on-lambda-gpu-cloud)
 
 ### Benchmarks
 

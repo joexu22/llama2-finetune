@@ -32,15 +32,12 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 - [Karparthy is a Beast](https://github.com/karpathy/llama2.c)
   - look it's clear that I'm not legit until I make it onto the README.md
   - but as a weekend project ... nah ... (at least right now)
-- [Investigative Journalism](https://www.competitionpolicyinternational.com/wp-content/uploads/2022/07/4-RECOMMENDER-SYSTEMS-APPROACHES-TO-SHAPE-A-SAFE-COMPETITIVE-AND-INNOVATION-DRIVEN-FUTURE.pdf)
-  - **Note** remove later
-  - crib the writing style for bonus points
 - [Fiverr](https://www.fiverr.com/search/gigs?query=LLAMA2&source=top-bar&ref_ctx_id=2ab7ea78dd9c20a111a7363e13a30e50&search_in=everywhere&search-autocomplete-original-term=llama2)
   - there's academic integrity which I adhere to
   - but I'm also technically an entrepreneur ... had the look
     - these rates seems decent
     - side hustle oppurtunity?
-- [Random Ass Paper](https://people.cs.umass.edu/~simengsun/paper/rlhf_tech_report.pdf)
+- [Random Paper](https://people.cs.umass.edu/~simengsun/paper/rlhf_tech_report.pdf)
   - **Note** remove later
   - literally a random paper I pulled from arxiv talking about training and finetunning
   - insight...
@@ -62,25 +59,15 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 #### Joke
 
-```
-GTP4 > Please Prompt
-Me > You're the pilot now
-```
+**Discuss B4 Implementation**
+![Engineering Meme](assets/SwingEngineering.webp)
 
 #### For Real
 
-[Promising Indian Accent](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
+[Promising FineTune Framework](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
 
-### frfr
-
-coding is hard...
-
-(imma stall until my shipment of Monster arrives (joking))
-
-### Serious frfr
-
-**Discuss with Sean b4 Implementation**
-![Engineering Meme](assets/SwingEngineering.webp)
+  - this looks like an out of the box solution
+  - cons is that it uses some sharded model of llama 7b, i believe for performance reasons
 
 ### Benchmarks
 

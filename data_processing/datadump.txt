@@ -1,0 +1,449 @@
+What are MSE and RMSE?
+
+Explain DBSCAN algorithm?
+
+What are dummy variables?
+
+What is anomaly detection?
+
+What is Bayesian inference?
+
+What is the R-Suared value?
+
+What about ordinal features?
+
+Loss functions in regression?
+
+What are Recommender Systems?
+
+Undersampling vs Oversampling?
+
+What is reinforcement learning?
+
+Do we call Knn a lazy algorithm?
+
+Define a Monte Carlo simulation?
+
+Does Kmeans and Kmeans++ is same?
+
+What is pruning in Decision Tree?
+
+How does an XGB control overfitting?
+
+What is the class imbalance problem?
+
+Why is lightGBM prone to overfitting?
+
+Name any one distance based algorithm?
+
+What is the objective function for Knn?
+
+What is the standard error of the mean?
+
+What are some disadvantages of K-means?
+
+What is data augmentation? Give examples.
+
+What is Euclidean and Manhatten distance?
+
+What is the role of gamma in RBF kernels?
+
+How would you handle an imbalanced dataset?
+
+Is it a good idea to combine multiple trees?
+
+How do support vector machine algorithms work?
+
+What is the significance of Residual Networks?
+
+What does it mean to have low MAE and high MSE?
+
+What are the disadvantages of linear regression?
+
+What is a recommendation engine? How does it work?
+
+What is K-means? How can you select K for K-means?
+
+Does Radial basis kernel function is there in SVM?
+
+What is linear regression? Why is it called linear?
+
+Is pruning always a good method to construct a tree?
+
+What is the difference between bagging and boosting?
+
+Which algorithm uses margin to classify the classes?
+
+What algorithm can be used to summarize twitter feed?
+
+How do you generate arbitrary or random shape clusters?
+
+How to compute standard error of median in a simple way?
+
+How does GBDTs decide to split a node? What does it minimize?
+
+What is the difference between R-suare and Adjusted R-suare?
+
+How is matrix factorization useful in recommendation systems?
+
+What are the approximation methods in Reinforcement Learning?
+
+What is the difference between an error and a residual error?
+
+Why does training an SVM takes a long time? How can I speed up?
+
+Difference between bagging, boosting, and the relation to bayes theorem?
+
+Which algorithm takes the data to the next dimension and then classify?
+
+What are categorical variables and what do we do with categorical variables?
+
+What is padding?
+
+Sigmoid Vs Softmax?
+
+What is PoS Tagging?
+
+What is tokenization?
+
+What is topic modeling?
+
+What is back propagation?
+
+What is the idea behind GANs?
+
+What is the Computational Graph?
+
+What is sigmoid? What does it do?
+
+What is Named-Entity Recognition?
+
+Explain the masked language model?
+
+How do you preprocess text in NLP?
+
+How do you extract features in NLP?
+
+How is wordvec different from Glove?
+
+What Are the Different Layers on CNN?
+
+What makes CNNs translation invariant?
+
+How is fastText different from wordvec?
+
+Explain Generative Adversarial Network?
+
+What is backward and forward propagation?
+
+What are Syntactic and Semantic Analysis?
+
+What is a local optimum? What is a local optimum?
+
+Explain gates used in LSTM with their functions?
+
+What is ReLU? How is it better than sigmoid or tanh?
+
+What is transfer learning? have you used it before?
+
+What is multi-task learning? When should it be used?
+
+Difference between convex and non-convex cost function?
+
+Why do we remove stop words? When do we not remove them?
+
+Explain the difference between an epoch, a batch, and an iteration?
+
+What is the difference between NLP and NLU?
+
+For online learning, which one would you prefer: SGD or Adagrad and why?
+
+What Is a Multi-layer Perceptron MLP?
+
+Is it always bad to have local optima? Is it always bad to have local optima?
+
+In node2vec, what does embedding represent: topological similarity or nearness?
+
+What do you understand by Boltzmann Machine and Restricted Boltzmann Machines?
+
+How to compute an inverse matrix faster by playing around with some computational tricks?
+
+For infrequent/rare words, which among CBOW and SkipGram should be used for wordvec training?
+
+What is pooling in CNN? Why do we need it?
+
+Describe the structure of Artificial Neural Networks & RNN(recurrent neural network)?
+
+How to Select a Batch Size? Will selecting a batch size produce better or worse results?
+
+What are N-grams? How can we use them?
+
+How large should be N for our bag of words when using N-grams?
+
+How can you use neural nets for text classification and computer vision?
+
+Do gradient descent methods always converge at the same point?
+
+What is gradient descent? How does it work?
+
+What are autoencoders? Explain the different layers of autoencoders and mention three practical usages of them.
+
+What is vanishing gradient descent?
+
+difference between Vanishing gradient Vs Exploding gradient?
+
+How to handle dying node problems in case of ReLU activation function?
+
+What is the use of the leaky ReLU function?
+
+What are the different Deep Learning Frameworks?
+
+What is the difference between machine learning and deep learning?
+
+What is a dropout layer and how does it help a neural network?
+
+Explain why dropout in a neural network acts as a regularizer?
+
+How to know whether your model is suffering from the problem of Exploding Gradients?
+
+How to handle exploding gradient problem?
+
+How Does an LSTM Network Work?
+
+What problem does Bi-LSTM solve instead of only LSTM?
+
+What is the difference between LSTM and GRU?
+
+What happens to the predictions of a CNN if an image is rotated?
+
+How does CNN help in translation and rotation invariance of images?
+
+Define Term Freuency & Inverse Document Freuency Tf-idf and how to use it for converting text to vector?
+
+What are three primary convolutional neural network layers How are they commonly put together?
+
+Describe the architecture of a typical Convolutional Neural Network?
+
+What do you mean by Dropout and Batch Normalization, When and why use?
+
+What is the difference between online and batch learning?
+
+Is dropout used on the test set?
+
+What is an activation function and discuss the use of an activation function?
+
+Explain three different types of activation functions?
+
+What is the range of activation functions?
+
+Why is Rectified Linear Unit a good activation function?
+
+Why don't we use the Relu activation function in the output layer?
+
+What can go wrong if we use a linear activation instead of ReLU?
+
+Give examples in which a many-to-one RNN architecture is appropriate, Give examples in which a many-to-one RNN architecture is appropriate?
+
+What is RNN and How does an RNN work?
+
+Why Sigmoid or Tanh is not preferred to be used as the activation function in the hidden layer of the neural network?
+
+difference between various Activation functions such as Sigmoid , tanh, Softmax, ReLU, Leaky ReLU?
+
+Why Tanh activation function preferred over sigmoid?
+
+What are word embeddings Why are they useful?
+
+what is WordVec?
+
+What are some advantages of using character embeddings instead of word embeddings?
+
+How do you get sentence meanings from word embeddings, considering the position of words in the sentence?
+
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words?
+
+What is bag of words How we can use it for text vectorization?
+
+What are the advantages and disadvantages of bag of words?
+
+What is the main difference between Adam and SGD?
+
+What are the advantages and disadvantages of SGD over gradient descent?
+
+What is the difference between stochastic gradient descent SGD and gradient descent GD, Batch gradient descent, Stochastic gradient descent, Mini-batch gradient descent , what are the pros and cons for each of them?
+
+When would you use GD over SDG and vice-versa?
+
+How would you choose the number of filters and the filter size at each CNN layer?
+
+How can we use CNN for text classification?
+
+What are some advantages in using a CNN (convolutional neural network rather than a DNN (dense neural network in an image classification task?
+
+Describe two ways to visualize features of a CNN in an image classification task?
+
+Why do segmentation CNNs typically have an encoder-decoder style / structure?
+
+What is a convolutional layer & Why do we actually need convolutions Can we use fully-connected layers for that?
+
+What are the advantages of parameter sharing in case of convolution?
+
+Why do we use convolutions for images rather than just Fully Connected layers?
+
+Why would you use many small convolutional kernels such as x rather than a few large onesWhy would you use many small convolutional kernels such as x rather than a few large ones?
+
+Why we generally use Softmax non-linearity function as the last operation in-network?
+
+How does BatchNormalization differ in training and inferencing?
+
+How does batch size affect training of neural networks?
+
+When using mini batch gradient descent, why is it important to shuffle the data?
+
+Give a simple mathematical argument why a mini-batch version of such ML algorithm might be computationally more efficient than a training with full data set?
+
+On a simplified and fundamental scale what makes the newly developed BERT model better than traditional NLP models?
+
+How would you initialize weights in a neural network?
+
+Why weights are initialized with small random numbers in a neural network What happens when weights are all or constant values?
+
+Suppose you have a NN with layers and ReLU activations What will happen if we initialize all the weights with the same value?
+
+What is backpropagation How does it work Why do we need it?
+
+Why large filter sizes in early layers can be a bad choice How to choose filter size?
+
+which one is more powerful a layer decision tree or a -layer neural network without any activation function --> Hint non-linearity?
+
+Both decision trees and deep neural networks are non-linear classifier ie they separates the space by complicated decision boundary Why then it is so much easier for us to intuitively follow a decision tree model vs a deep neural network?
+
+If you could take advantage of multiple CPU cores would you prefer a boosted-tree algorithm over a random forest?
+
+Tell me about yourself?
+
+What are your greatest strengths?
+
+What are your greatest weaknesses?
+
+Tell me about something you did – or failed to do – that you now feel a little ashamed of?
+
+Why are you leaving (or did you leave) this position?
+
+The “Silent Treatment”?
+
+Why should I hire you?
+
+Aren’t you overqualified for this position?
+
+Where do you see yourself five years from now?
+
+Describe your ideal company, location, and job?
+
+Why do you want to work at our company?
+
+What are your career options right now?
+
+Why have you been out of work so long?
+
+Tell me honestly about the strong points and weak points of your boss (company, management team, etc.)...
+
+What good books have you read lately?
+
+Tell me about a situation when your work was criticized?
+
+What are your outside interests?
+
+The “Fatal Flaw” question?
+
+How do you feel about reporting to a younger person (minority, woman, etc)?
+
+On confidential matters...
+
+Would you lie for the company?
+
+Looking back, what would you do differently in your life?
+
+Could you have done better in your last job?
+
+Can you work under pressure?
+
+What makes you angry?
+
+Why aren’t you earning more money at this stage of your career?
+
+Who has inspired you in your life and why?
+
+What was the toughest decision you ever had to make?
+
+Tell me about the most boring job you’ve ever had?
+
+Have you been absent from work more than a few days in any previous position?
+
+What changes would you make if you came on board?
+
+I’m concerned that you don’t have as much experience as we’d like in...
+
+How do you feel about working nights and weekends?
+
+Are you willing to relocate or travel?
+
+Do you have the stomach to fire people? Have you had experience firing many people?
+
+Why have you had so many jobs?
+
+What do you see as the proper role/mission of... a good (job title you’re seeking); a good manager; an executive in serving the community; a leading company in our industry; etc?
+
+What would you say to your boss if he’s crazy about an idea, but you think it stinks?
+
+How could you have improved your career progress?
+
+What would you do if a fellow executive on your own corporate level wasn’t pulling his/her weight...and this was hurting your department?
+
+You’ve been with your firm a long time. Won’t it be hard switching to a new company?
+
+May I contact your present employer for a reference?
+
+Give me an example of your creativity (analytical skill...managing ability, etc.)
+
+Where could you use some improvement?
+
+What do you worry about?
+
+How many hours a week do you normally work?
+
+What’s the most difficult part of being a (job title)?
+
+The “Hypothetical Problem”?
+
+What was the toughest challenge you’ve ever faced?
+
+Have you considered starting your own business?
+
+What are your goals?
+
+What do you look for when you hire people?
+
+Sell me this stapler...(this pencil...this clock...or some other object on the interviewer’s desk)?
+
+“The Salary Question” – How much money do you want?
+
+The Illegal Question?
+
+The “Secret” Illegal Question?
+
+What was the toughest part of your last job?
+
+How do you define success...and how do you measure up to your own definition?
+
+“The Opinion Question” – What do you think about ...Abortion...The President...The Death Penalty...(or any other controversial subject)?
+
+If you won a $10 million lottery, would you still work?
+
+Looking back on your last position, have you done your best work?
+
+Why should I hire you from the outside when I could promote someone from within?
+
+Tell me something negative you’ve heard about our company?
+
+On a scale of one to ten, rate me as an interviewer?

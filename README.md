@@ -78,6 +78,9 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 ### Benchmarks
 
+[LlamaIndex Semantic Similarity Evaluator](https://gpt-index.readthedocs.io/en/latest/examples/evaluation/semantic_similarity_eval.html)
+  - uh thanks...
+
 [MMLU (Massive Multitask Language Understanding)](https://paperswithcode.com/dataset/mmlu)
   - this is probably the benchmark I should riff on
 

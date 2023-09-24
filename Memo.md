@@ -8,7 +8,11 @@ This is a fine-tune of the LLaMA2 model on a dataset of interview questions. The
 
 ### Data Generation
 
+one thing to note is that one can use GPT4 or other LLMs to generate synthetic data. This is a good way to generate a lot of data for fine-tuning. The intuition here is that data modeling and structuring the data is important if one wants to leverage existing training pipelines.
+
 ### Training Run
+The executable code is in a colab notebook located in this repo.
+1) run training set
 
 ### Analysis | Benchmarking
 ## Details

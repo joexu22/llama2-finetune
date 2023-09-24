@@ -2,6 +2,9 @@
 
 ## Introduction
 
+Memo, short for something to be remembered. How do I call upon my muses to write something inspiring for the times... on something as mundane as fine-tuning a language model...
+TOUGH QUESTION?
+
 How does our company flourish in the age of AI?
 
 no field will remain untouched by AI

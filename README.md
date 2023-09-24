@@ -58,7 +58,7 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 ### Dataset Creation
 
 [Kaggle](https://www.kaggle.com/datasets/sandy1811/data-science-interview-questions)
-  - kaggle always have some interesting datasets (interview quetions related)
+  - kaggle always have some interesting datasets (easily found some interview related questions)
   - able to manually compile a list of interesting interview questions
     - potential OCR (future... TODO)
   - use GPT4 API to synthetically generate reponses

@@ -82,11 +82,17 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 #### Fine-Tune Framework for Pipeline
 
-[Promising FineTune Framework](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
+Code to be executed are found in Notebooks, which contains a bunch of colab notebooks that should be one-click solutions
 
+[FineTune Script](https://twitter.com/Dorialexander/status/1681671177696161794)
+  - good no fluff script
+  - copy of code to use in pipeline in Notebooks
+
+[Promising FineTune Framework](https://www.youtube.com/watch?v=eeM6V5aPjhk&ab_channel=1littlecoder)
   - this looks like an out of the box solution - one click colab solution
   - cons is that it uses some strange sharded model of llama 7b
-##### Fine-tune Code
+
+##### Fine-tune Code Examples
 
   - [Ray Finetune](https://github.com/ray-project/ray/blob/master/doc/source/templates/04_finetuning_llms_with_deepspeed/run_llama_ft.sh)
   - [Lambda Labs Finetune](https://lambdalabs.com/blog/fine-tuning-metas-llama-2-on-lambda-gpu-cloud)
@@ -105,8 +111,8 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 
 1) choose/create fine-tuning dataset
 2) prepare dataset
-3) ?choose fine-tuning framework?
-4) ?configure fine-tuning process?
+3) choose fine-tuning framework
+4) configure fine-tuning process
 5) train the model
 6) evaluate the model
 

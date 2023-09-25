@@ -21,7 +21,7 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 - benchmark llama2 fine-tune against base model
   - split training set against validation set (90/10?)
   - benchmark fine-tune against base
-    - goal: achieve higher "cosine simularity" (between llama output and validation set) using fine-tuned version than base version
+    - goal: achieve higher "cosine similarity" (between llama output and validation set) using fine-tuned version than base version
     - (exclaim - oh shit! - I'm a regmonkey) 
 
 ## Basic Research
@@ -47,7 +47,7 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
   - literally a random paper I pulled from arxiv talking about training and finetunning
   - insight...
     - [AlpacaFarm](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html)
-    - partnerships with AI/ML labs worth looking into
+    - is this useful?
 - [Yannic Kilcher segment](https://www.youtube.com/watch?v=xs-0cp1hSnY&ab_channel=YannicKilcher)
   - [Original LLaMA](https://www.youtube.com/watch?v=E5OnoYF2oAk&ab_channel=YannicKilcher)
   - LLaMA-Accessory (potential fine-tune tool)
@@ -58,26 +58,23 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
 ### Dataset Creation
 
 [Kaggle](https://www.kaggle.com/datasets/sandy1811/data-science-interview-questions)
-  - kaggle always have some interesting datasets (easily found some interview related questions)
+  - kaggle always have some interesting datasets (interview quetions related)
   - able to manually compile a list of interesting interview questions
     - potential OCR (future... TODO)
-  - use GPT4 API to synthetically generate reponses
+  - use GPT4 API to synthetically generate responses
     - potential human reinforcement here
       - scale.ai/mechanical turk stuff? (TODO)
-  - (TODO) Scaling Considerations
-    - large language models should be able to generate entire datasets ... this is more a testing consideration when prototyping out a resilent/reliant engineered system
-    - in parallel, actual product for b2b and b2c use cases will involve sophisticated/concierge data analysis for clients
-
+  - 
 ### Implementation
 
-#### Engineering Joke
+#### Joke
 
 **Discuss B4 Implementation**
 ![Engineering Meme](assets/SwingEngineering.webp)
 
 #### Data Processing
   
-  - aquire datasets from kaggle
+  - acquire datasets from kaggle
   - random code in data_processing
     - Use GTP4 to do data formatting work
   - create .env with OPENAI_API_KEY=...
@@ -134,8 +131,8 @@ Collab Notesbooks in Repo
   - Yo, **all instances are reserved**
     - WTF
     - need to containerize application so that it can run on any compute cloud/otherwise/etc.
-      - **this is the acutal product**
-        - buried *Alpha* if you read this far
+      - **this is the actual product**
+      - buried Alpha if you read this far
 
 ### Hugging Face
 https://huggingface.co/UrbanJoe

@@ -47,7 +47,7 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
   - literally a random paper I pulled from arxiv talking about training and finetunning
   - insight...
     - [AlpacaFarm](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html)
-    - is this useful?
+    - partnerships with AI/ML labs worth looking into
 - [Yannic Kilcher segment](https://www.youtube.com/watch?v=xs-0cp1hSnY&ab_channel=YannicKilcher)
   - [Original LLaMA](https://www.youtube.com/watch?v=E5OnoYF2oAk&ab_channel=YannicKilcher)
   - LLaMA-Accessory (potential fine-tune tool)
@@ -64,10 +64,13 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
   - use GPT4 API to synthetically generate reponses
     - potential human reinforcement here
       - scale.ai/mechanical turk stuff? (TODO)
-  - 
+  - (TODO) Scaling Considerations
+    - large language models should be able to generate entire datasets ... this is more a testing consideration when prototyping out a resilent/reliant engineered system
+    - in parallel, actual product for b2b and b2c use cases will involve sophisticated/concierge data analysis for clients
+
 ### Implementation
 
-#### Joke
+#### Engineering Joke
 
 **Discuss B4 Implementation**
 ![Engineering Meme](assets/SwingEngineering.webp)
@@ -132,7 +135,7 @@ Collab Notesbooks in Repo
     - WTF
     - need to containerize application so that it can run on any compute cloud/otherwise/etc.
       - **this is the acutal product**
-      - buried Alpha if you read this far
+        - buried *Alpha* if you read this far
 
 ### Hugging Face
 https://huggingface.co/UrbanJoe

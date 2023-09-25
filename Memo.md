@@ -3,7 +3,12 @@
 ## Introduction
 
 Memo, short for something to be remembered. How do I call upon my muses to write something inspiring for the times... on something as mundane as fine-tuning a language model...
+
 TOUGH QUESTION?
+
+I'm reading reading *"Competing in the Age of AI"* for some long-term predictive insight
+
+using this insight, i will be able to write a better memo
 
 How does our company flourish in the age of AI?
 

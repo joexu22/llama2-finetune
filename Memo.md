@@ -13,25 +13,34 @@ To this effect, I leverage the book, *"Competing in the Age of AI"*, which provi
 The principles laid forth by this memo is synthesized from the experience gained through the implementation of a LLaMA2 fine-tune. The technical details of the fine-tune are as follows:
   
   - Training data is sourced from Kaggle and synthetically populated with OpenAI'S ChatGTP-4
-  - Fine-tuning is then executed on Colab's compute using code available from the Github's Open Source community
+  - Fine-tuning is then executed on Colab's compute using code available from the Open Source community, particularly Github
+  - The resultant fine-tuned models are then uploaded to HuggingFace, which allows for levering it's APIs for inference and evaluation
+  - Inference is then used to generate the new fine-tuned data
+  - Evaluation is performed through eye-tests and a haphazard benchmark
 
-This implementation of a LLaMA2 fine-tune heavily leverages the existing AI/ML ecosystem: Kaggle for datasets, Colab for training, Meta and HuggingFace for models, Github for repository, Replit for presentation, and the OpenSource community and OpenAI for code.
+This implementation stands on the shoulders of existing AI/ML giants and their ecosystems: e.g. Kaggle for datasets, Colab for training, Meta & Hugging Face for models, Github for repository, and Replit for presentation, etc.
 
-The process and the pipeline itself is self-devised and manually implemented. 
-  
-  - The training data is sourced from Kaggle and synthetically populated with OpenAI'S ChatGTP-4
-  - Fine-tuning is then executed on Colab's compute using code available from the Github's Open Source community
-  - The resultant fine-tuned models are then uploaded to HuggingFace
-  - Inference is used to generate the new fine-tuned data
-  - Evaluation is performed through eye-test and a haphazard benchmark
+However, this particular process and pipeline is self-devised and manually implemented respectively. This exercise in integrating various tools and techniques leaves the impression of very possible and potential value add - Business Scale can be achieve through the automation of manual pain-points, through the application of applied software engineering. Increasing Business Scope will require an concerted effort to understand customer data on a case-by-case basics, but that to can be formalized, leading to further automation. Business learning is achieve through an attachment and mutualism to the AI community at large. Last, Business learning is achieve through an attachment and mutualism to the AI community at large, possibly through formal partnerships and collaborations.
 
-The exercise leaves the impression of very possible and potential value add. Business scale can be achieved through the automation of manual pain-points through the application of applied software engineering. Business scope will require an concerted effort to understand customer data on a case-by-case basics, but can be formalized leading to automation. Business learning is achieve through an attachment and mutualism to the AI community at large.
-
-## Analysis - What We Can Build
+## Proposal - What We Can Build
 
 LLaMA2 fine-tune is a stepping stone for better and more advanced AI systems. I believe fine-tuning is but a very narrow use case, and one of many methods, to extract useful information from existing foundational models. However, I also believe all these techniques build towards ever more performant systems.
 
-To this end, I propose building LLaMA interns. A fully realized product will be able to perform any knowledge based white-collar work - granted a formalized and automated way of processing domain specific data and an automated method for creating a fine-tune for any specific task. People may have had unfounded fears about losing their jobs, until now, were I propose building an actual system to replace everyone with AI in the business context.
+To this end, I propose building LLaMA interns. A fully realized product will be able to perform any knowledge based white-collar work - granted a formalized and automated way of processing domain specific data and an automated method for creating a fine-tune for any specific task.
+
+This approach aligns with the idea of having an AI first company.
+
+In my experience, training an intern/new hire requires an patient approach. We need to imbue our own domain expertise into the intern, LLMs in this case. Allusions to ideas of having a gentle touch, having green thumbs, and a patient approach
+
+are made, as we wait for the intern to grow into a full fledged LLaMA.
+
+
+A gentle touch... green thumbs... a patient approach... as we wait for the intern to grow into a full fledged LLaMA.
+
+in training the intern, a patient approach is necessary. We need to imbue our own domain expertise into the intern. A gentle touch... green thumbs... a patient approach... as we wait for the intern to grow into a full fledged LLaMA.
+
+
+People may have had unfounded fears about losing their jobs, until now, were I propose building an actual system to replace everyone with AI in the business context.
 
 ## Forward Thinking
 
@@ -43,31 +52,12 @@ To the end of what makes a better life. Work to Live, or Live to Work.
 
 ---
 
+The business landscape is changing - AI will consume the world. Not an industry will not be touched. There will be opportunities for us if we have the right skills, capabilities, and culture to drive an digital first operating model - gears towards autonomous AI driven processes.
 
-build-able and actionable
+the nature of this AI startups.
 
-
-nature of the LLaMA2 fine-tune in the context of the business landscape of AI.
-
-Provide and analysis of the LLaMA2 fine-tune in the context of the business landscape of AI.
-
-is then compared with that of the subject matter. In this case, the subject matter is the nature of AI startups.
-
-The framework set forth in this book
-
-is used to guide the formulation of this memo.
-
-
-
-with that 
-
-of the subject matter. In this case, the subject matter is the nature of AI startups.
-
-The book *"Competing in the Age of AI"* provides many case studies in the nature of AI firms, it summarizes the economic landscape of AI and teaches the basic fundamentals of business; additionally, it offers many a prediction in the course for AI.
 
 ## My Proposal
-
-I propose that we build and LLaMA intern... in training the intern, a patient approach is necessary. We need to imbue our own domain expertise into the intern. A gentle touch... green thumbs... a patient approach... as we wait for the intern to grow into a full fledged LLaMA.
 
 In building a company we must constantly ask, "How does our company flourish in the age of AI"
 
@@ -93,6 +83,8 @@ full potential opportunities and challenges
 
 “target new processes to digitize and enable, through analytics and AI”
 
+---
+
 different kind of company - 
 
 “changing the way it gathers and uses data, reacts to information, makes operating decisions, and executes operating tasks.”
@@ -104,7 +96,9 @@ How is this more important than anything else that needs to be remembered.
 
 This is a fine-tune of the LLaMA2 model on a dataset of interview questions. The goal is to create a model that can generate interview answers given a question.
 
-## Setup Instructions (Guide)
+This project has been my own tongue and cheek trail run for such an system ... 
+
+## Detailed Setup/Execution Instructions (Guide)
 
 ### Data Generation
 

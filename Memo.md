@@ -2,21 +2,26 @@
 
 ## Introduction
 
-This is a memorandum on the fine-tuning of LLaMA2 for the purpose of creating a competitive AI startup. The goal is to gather deep technical insights and intuition on the nature of fine-tuning in relation to growing a flourishing business in the age of AI.
+This is a memorandum on the fine-tuning of LLaMA2 for the purpose of creating a competitive AI startup. The goal is to gather deep technical insights and prescient intuition on the nature of fine-tuning in relation to growing a flourishing business in the age of AI. Analysis will be provided on the principles of fine-tuned LLMs and their application to the firm.
 
-It is my belief that an important memo must encapsulate the essence and importance of an subject matter, and apply it's principle to a well researched and thought out formulation of the future, such that these principles will be "of note" in future decision making and strategical planning.
+It is my belief that an important memo must encapsulate the essence and importance of an subject matter. It must further provide a framework for understanding the subject matter and it's implications. It should be a document that is remembered and referenced. The document should suggest actionable plans for the future. It should be forward thinking and forward looking.
 
 To this effect, I leverage the book, *"Competing in the Age of AI"*, which provides many case studies in the nature of AI firms; it summarizes the economic landscape of AI, teaches the basic fundamentals of business, and additionally offers many a predictions for the course of AI. The business model and operating model of the LLaMA2 fine-tune will be contextualized in the framework set forth in the book. I will be providing a brief analysis in the practical, actionable, and build-able applications that can arise from a LLAMA2 fine-tune, to the purpose of formulating a workable business and operational model.
 
 ## Technical Details - Insight and Intuition
 
+The principles laid forth by this memo is synthesized from the experience gained through the implementation of a LLaMA2 fine-tune. The technical details of the fine-tune are as follows:
+  
+  - Training data is sourced from Kaggle and synthetically populated with OpenAI'S ChatGTP-4
+  - Fine-tuning is then executed on Colab's compute using code available from the Github's Open Source community
+
 This implementation of a LLaMA2 fine-tune heavily leverages the existing AI/ML ecosystem: Kaggle for datasets, Colab for training, Meta and HuggingFace for models, Github for repository, Replit for presentation, and the OpenSource community and OpenAI for code.
 
 The process and the pipeline itself is self-devised and manually implemented. 
   
-  - The training data is sourced from Kaggle and synthetically populated with OpenAI ChatGTP-4
-  - Fine-tuning is then executed on Colab using OpenSource code
-  - The resultant model is uploaded to HuggingFace
+  - The training data is sourced from Kaggle and synthetically populated with OpenAI'S ChatGTP-4
+  - Fine-tuning is then executed on Colab's compute using code available from the Github's Open Source community
+  - The resultant fine-tuned models are then uploaded to HuggingFace
   - Inference is used to generate the new fine-tuned data
   - Evaluation is performed through eye-test and a haphazard benchmark
 
@@ -39,8 +44,7 @@ To the end of what makes a better life. Work to Live, or Live to Work.
 ---
 
 
-build-able, and actionable
-
+build-able and actionable
 
 
 nature of the LLaMA2 fine-tune in the context of the business landscape of AI.
@@ -63,21 +67,13 @@ The book *"Competing in the Age of AI"* provides many case studies in the nature
 
 ## My Proposal
 
-To build an LLaMA intern...
+I propose that we build and LLaMA intern... in training the intern, a patient approach is necessary. We need to imbue our own domain expertise into the intern. A gentle touch... green thumbs... a patient approach... as we wait for the intern to grow into a full fledged LLaMA.
 
----
-
-for some long-term predictive insight
-
-using this insight, i will be able to write a better memo
-
-Startup is a business that is designed to grow fast
+In building a company we must constantly ask, "How does our company flourish in the age of AI"
 
 We as a startup must put AI first in designing our company...
 
 operating architecture, and building the right skills, capabilities, and culture to drive an increasingly digital operating model
-
-How does our company flourish in the age of AI?
 
 no field will remain untouched by AI
 
@@ -101,23 +97,8 @@ different kind of company -
 
 “changing the way it gathers and uses data, reacts to information, makes operating decisions, and executes operating tasks.”
 
-“AI for strategy and leadership”
-
----
-
-business model - creates and captures value
-operating model - delivers value
-
----
-
-
-
-
 How to be a competitive company in the age of AI.
 landscape of business + nature of companies
-
-
-Memo, short for something to be remembered.
 
 How is this more important than anything else that needs to be remembered.
 
@@ -140,14 +121,12 @@ The executable code is in a colab notebook located in this repo.
 
 ## Analysis
 
-Long term thinking about the world of AI and intelligence
-
-Artificial Intelligence in the age of AI
+Age of Artificial Intelligence + Long Term Thinking
 
 
 ---
 
-How does this relate to the current business context
+How does this relate to the current business context?
 
 <>
 landscape of business
@@ -167,8 +146,7 @@ AI, analytics, networks
 
 strategy + operating model
 
-AI first
-digital foundation
+To the effect of running a successful and competitive AI startup, I will advocate for AI first strategy and building a digital foundation.
 
 rag workflow - as advanced prompt engineering
 
@@ -195,6 +173,10 @@ Mastiffs were originally bred as war dogs, hunting dogs, and guard dogs. They we
 We must adopt an actual Mastiff
 
 ---
+
+## The Human Element
+
+Inspired by "The Road Not Taken" by Robert Frost
 
 love, career, life
 &
@@ -223,7 +205,6 @@ preparation
 
 personally i can not pursue them both
 
-
 i can only choose to pursue one thing
 we can contemplate and plan things out in the long term
 as far as our predictive capabilities
@@ -237,7 +218,6 @@ not one step has been taken yet
 go and take one way
 but it be a decision that can't be taken back
 
-
 Work and career is a deeply personal things that affects one's whole life - taking things seriously is important
 
 this will be remembered
@@ -247,6 +227,20 @@ that will make things interesting
 
 ---
 
+## AI Assistance
+
+Collaboration is needed between humans and AI
+
+We'll need to balance the ethical grounding between keeping humans in the loop and the business incentives to remove humans from the loop.
+
+One approach is to be fully present and mindful - while bringing AI technologies to market. Attention is what we'll need ... to model patterns as they emerge. We risk missing key insights from each iteration of of the process otherwise. That's how we'll achieve learning.
+
+Fulfillment - While impressive benchmarks motivate, fulfillment comes from enjoying the journey of inquiry and discovery in training. The creative process of designing prompts, datasets and experiments can be profoundly fulfilling.
+
+
+Community - Leveraging public datasets, code bases and the broader AI community support during training is key. More eyes on a problem reduces the risk of blind spots.  Feedback from collaborators
+
+Making History - Training a state-of-the-art LLM like LLaMA2 provides an opportunity to push boundaries in AI. The insights from analyzing model behavior during training could open new frontiers in understanding language and reasoning.
 
 Purpose & Meaning - When training an LLM, having a clear purpose and measurable metrics of success are important. 
 
@@ -256,15 +250,10 @@ How will you evaluate if training is effective?
 
 Aligning training objectives with end goals gives meaning and direction.
 
-Making History - Training a state-of-the-art LLM like LLaMA2 provides an opportunity to push boundaries in AI. The insights from analyzing model behavior during training could open new frontiers in understanding language and reasoning.
 
 
-Community - Leveraging public datasets, code bases and the broader AI community support during training is key. More eyes on a problem reduces the risk of blind spots.
 
-Feedback from collaborators
 
-Fulfillment - While impressive benchmarks motivate, fulfillment comes from enjoying the journey of inquiry and discovery in training. The creative process of designing prompts, datasets and experiments can be profoundly fulfilling.
+Building a company through an iterative agile process ...
 
-Being fully present and mindful while training focuses one's attention on model patterns as they emerge. Rushing training risks missing key insights revealed in each iteration. Patience and presence enable learning.
-
-This is a very limited applications of AI/ML in the grand scheme of things. But it is a good way to get started.
+Patience and presence enables learning.

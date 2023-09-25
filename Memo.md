@@ -46,27 +46,13 @@ We will need to find community. We will need to find partners. We will need to f
 
 As the firm expands, it is crucial we remain thoughtful about the human element. There is understandable hype and anxiety about how these technologies will impact society. We must balance the promised benefits with potential disruptions to jobs, businesses, and social structures. In the face of the disruptions, I would affirm that AI should ultimately help us expand the range of positive human experience ... enhance our ability to enjoy life, love, and work: humor, humility, fun, excitement, mental stimulation, being aware, being present, being mindful. Questions we must aks are: How does AGI help create a better world? More importantly how does AGI help spread the vibes of a better world?
 
-## Forward Thinking
+## Nature of the Company
 
-A mastiff is a shepard dog... we are herding llamas.
+I will advocate for trying to build a different kind of company. On the technical front, we will need sophisticated methods of gathering and using data, fast ways to react to information, better ways to make informed operating decisions, and great ways to execute tasks.
 
-We must adopt an actual Mastiff
+With AI, we can scale faster, we can innovate faster, and ew can personalize better. We can use AI, analytics, networks, and automation to build a digital foundation that will allow us to scale and innovate faster.
 
-As and startup, our best bet is to set trends that will ultimately continue to propel us... always keep ahead and make sure that the tools that we do leave behind future accelerate our destination.
-
-To the end of what makes a better life.
-
-making money in the AGI space
-finding a good life
-finding a good community
-making things feel good
-good vibes
-
-The business landscape is changing - AI will consume the world. Not an industry will not be touched. There will be opportunities for us if we have the right skills, capabilities, and culture to drive an digital first operating model - gears towards autonomous AI driven processes.
-
-In the landscape where on field will remain untouched by AI
-
-It is an universal engine of execution and a general purpose technology
+“target new processes to digitize and enable, through analytics and AI”
 
 Our goal should be to abstract our underlying business processes and apply AI + automation as liberally as possible.
 
@@ -78,7 +64,6 @@ We as a startup must put AI first in designing our company.
 
 We most architect our firm so that we can build the right skills, capabilities, and culture to drive an increasingly digital/AI-centric operating model. We most weave AI into the fabric of our firm.
 
-
 digitization and analytics
 
 build a company based on AI/ML foundations
@@ -87,36 +72,26 @@ full potential opportunities and challenges
 
 "build upon existing expertise"
 
-“target new processes to digitize and enable, through analytics and AI”
-
----
-
-## Nature of the Company
-
-different kind of company
-
-changing the way it gathers and uses data, reacts to information, makes operating decisions, and executes operating tasks
-
-How to be a competitive company in the age of AI.
-landscape of business + nature of companies
-
-AI competition
-  - scale faster
-  - innovate faster
-  - personalize better
-
-AI, analytics, networks
- + automation
-
-strategy + operating model
-
-To the effect of running a successful and competitive AI startup, I will advocate for AI first strategy and building a digital foundation.
-
-rag workflow - as advanced prompt engineering
-
-techniques to stuff the context with as much useful information as possible as it makes token prediction
-
-The most important challenge that face a budding AI company is being able to align our own company values to that of the changing AI landscape. We are a seed; an actual germinating bud amongst a flourish of other lifeforms.
-
 Mastiffs were originally bred as war dogs, hunting dogs, and guard dogs. They were used to protect land, livestock, and other property, and can take down humans and large animals. Today, they still work alongside people as police dogs, military dogs, and guard dogs
 
+## Forward Thinking - Analysis
+
+A mastiff is a shepard dog... we are herding llamas
+
+We must adopt an actual Mastiff
+
+As and startup, our best bet is to set trends that will ultimately continue to propel us... always keep ahead and make sure that the tools that we do leave behind future accelerate our destination.
+
+To the end of what makes a better life.
+
+making money in the AGI space
+
+finding a good life
+
+finding a good community
+
+making things feel good
+
+good vibes
+
+The business landscape is changing - AI will consume the world. Not an industry will not be touched. There will be opportunities for us if we have the right skills, capabilities, and culture to drive an digital first operating model - gears towards autonomous AI driven processes.

@@ -1,7 +1,9 @@
-run = "cowsay click here README.md"
+#run = "cowsay click here README.md"
 
-[nix]
-channel = "stable-22_11"
+#[nix]
+#channel = "stable-22_11"
 
-[deployment]
-run = ["sh", "-c", "cowsay Configure me!"]
+#[deployment]
+#run = ["sh", "-c", "cowsay Configure me!"]
+
+run = "jupyter notebook --config jupyter_notebook_config.py"

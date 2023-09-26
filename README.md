@@ -124,11 +124,14 @@ Code to be executed are found in Notebooks, which contains a bunch of colab note
 
 ## Code
 
-### Replit (Solely used as MarkDown Renderer, lolz)
-https://replit.com/@joexu22/llama2-finetune
+### Replit (MarkDown Renderer, Jupyter Env)
+
+  - https://replit.com/@joexu22/llama2-finetune
+  - https://llama2-finetune.joexu22.repl.co
 
 ### Github (Acutal Codebase - I hear it's on chain)
-https://github.com/joexu22/llama2-finetune
+
+  - https://github.com/joexu22/llama2-finetune
 
 ### Executable Code in Notebook that runs on Collab
 Collab Notesbooks in Repo

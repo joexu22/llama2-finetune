@@ -22,7 +22,13 @@ LLAMA-FIT CO.™ - Your LLaMA Will Like The Way It Looks
   - split training set against validation set (90/10?)
   - benchmark fine-tune against base
     - goal: achieve higher "cosine similarity" (between llama output and validation set) using fine-tuned version than base version
-    - (exclaim - oh shit! - I'm a regmonkey) 
+    - (exclaim - oh shit! - I'm a regmonkey)
+
+## Quick Start Guide
+
+[Haphazard Benchmark](./Notebooks/Haphazard_Benchmark.ipynb)
+  - run all cells in notebook
+  - last cell can be ran to view simple haphazard benchmark
 
 ## Basic Research
 

@@ -127,6 +127,7 @@ Code to be executed are found in Notebooks, which contains a bunch of colab note
 ### Replit (MarkDown Renderer, Jupyter Env)
 
   - https://replit.com/@joexu22/llama2-finetune
+  - https://llama2-finetune.joexu22.repl.co
 
 ### Github (Acutal Codebase - I hear it's on chain)
 

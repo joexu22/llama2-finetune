@@ -102,6 +102,7 @@ Code to be executed are found in Notebooks, which contains a bunch of colab note
 
   - [Ray Finetune](https://github.com/ray-project/ray/blob/master/doc/source/templates/04_finetuning_llms_with_deepspeed/run_llama_ft.sh)
   - [Lambda Labs Finetune](https://lambdalabs.com/blog/fine-tuning-metas-llama-2-on-lambda-gpu-cloud)
+  - [More Examples](https://github.com/mshumer/gpt-llm-trainer/blob/main/One_Prompt___Fine_Tuned_LLaMA_2.ipynb)
 
 ### Benchmarks
 

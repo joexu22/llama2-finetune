@@ -54,14 +54,8 @@ On the business front, we should possess and secure the ability to abstract our 
 
 In building the firm we must constantly ask: "How does our company flourish in the age of AI?". A focus on deliberate use of AI in our standard operating procedure should be forefront when we architect our firm so that we can shape the right skills, capabilities, and culture to drive an increasingly digital/AI-centric operating model. We must weave AI into the fabric of our firm. We need to build a company that has an AI/ML foundation.
 
-The future is full of potential opportunities and challenges. We need be aware about our existing expertise and apply it as we see the opportunity. The firm is the big dog in the pound. A shepard for the followers.
-
-Since a mastiff is a shepard dog, we'd be herding llamas.
-
-Also, we must adopt an actual mastiff as mascot.
-
 ## Forward Thinking - Analysis
 
 As a startup hoping to bring AI technologies to market, we need to stay on, or be adjacent to, the leading edge of AI innovation. It'll be necessary for us to set trends that propel the firm ahead, while creating tools that accelerate human progress. I believe we have the capabilities to make an valuable product and be rewarded for it. We as individuals are banding together as a company to accomplish a goal that we cannot accomplish alone. It is my belief that building together as friends who have the shared goals and as professional peers with complementary skills will surely lead to success.
 
-The business landscape is shifting, but by embracing AI, we can thrive in this new era. Our future will be defined by how we steer AI's potential today. I'm excited to set course on this journey with you.
+The business landscape is shifting, but by embracing AI, we can thrive in this new era. Our future will be defined by how we steer AI's potential today. It's a exiting future for us to navigate.
